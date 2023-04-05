@@ -22,4 +22,4 @@ if __name__ == "__main__":
     similarity_score = jaccard_similarity(data1, data2)
 
     # print(f"Skor kemiripan antara dua dokumen adalah {similarity_score} atau sekitar {round(similarity_score * 100, 2)}%")
-    print(f"Persentase kemiripan antara dua dokumen adalah {round(similarity_score * 100, 2)}%")
+    print(f"Persentase kemiripan antara kedua dokumen adalah {round(similarity_score * 100, 2)}%")
