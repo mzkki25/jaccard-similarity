@@ -4,7 +4,7 @@ Jaccard similarity adalah sebuah metrik yang digunakan untuk mengukur seberapa m
 
 Secara matematis, Jaccard similarity dapat didefinisikan sebagai:
 
--- J(A,B) = |A ∩ B| / |A ∪ B|
+>J(A,B) = |A ∩ B| / |A ∪ B|
 
 di mana:
 
